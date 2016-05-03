@@ -23,6 +23,7 @@ ax.set_zlabel('Z')
 ax.set_xlim(-10, 10)
 ax.set_ylim(-10, 10)
 ax.set_zlim(-10, 10)
+
 ax.scatter(xs, ys, zs)
 
 plt.show()
