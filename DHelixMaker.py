@@ -18,7 +18,7 @@ ppc = 10
 radius = 2
 c = 4
 thetaX = radians(0)
-thetaY = radians(0)
+thetaY = radians(45)
 thetaZ = radians(0)
 origin = np.matrix([0, 0, 0]).T
 
